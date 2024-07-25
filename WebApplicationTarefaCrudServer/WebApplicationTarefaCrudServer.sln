@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplicationTarefaCrudServer", "WebApplicationTarefaCrudServer\WebApplicationTarefaCrudServer.csproj", "{B435A028-9B4D-4A5C-A7A7-2EF6A8E3226B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B435A028-9B4D-4A5C-A7A7-2EF6A8E3226B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B435A028-9B4D-4A5C-A7A7-2EF6A8E3226B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B435A028-9B4D-4A5C-A7A7-2EF6A8E3226B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B435A028-9B4D-4A5C-A7A7-2EF6A8E3226B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D6E04A7-70D8-458D-A5D9-E165661084DE}
+	EndGlobalSection
+EndGlobal

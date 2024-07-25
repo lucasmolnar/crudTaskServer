@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Documents\\pageinterim\\servidorFinal\\crudTaskServer\\WebApplicationTarefaCrudServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B435A028-9B4D-4A5C-A7A7-2EF6A8E3226B}|WebApplicationTarefaCrudServer\\WebApplicationTarefaCrudServer.csproj|c:\\users\\pc\\documents\\pageinterim\\servidorfinal\\crudtaskserver\\webapplicationtarefacrudserver\\webapplicationtarefacrudserver\\controllers\\tarefascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B435A028-9B4D-4A5C-A7A7-2EF6A8E3226B}|WebApplicationTarefaCrudServer\\WebApplicationTarefaCrudServer.csproj|solutionrelative:webapplicationtarefacrudserver\\controllers\\tarefascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B435A028-9B4D-4A5C-A7A7-2EF6A8E3226B}|WebApplicationTarefaCrudServer\\WebApplicationTarefaCrudServer.csproj|c:\\users\\pc\\documents\\pageinterim\\servidorfinal\\crudtaskserver\\webapplicationtarefacrudserver\\webapplicationtarefacrudserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B435A028-9B4D-4A5C-A7A7-2EF6A8E3226B}|WebApplicationTarefaCrudServer\\WebApplicationTarefaCrudServer.csproj|solutionrelative:webapplicationtarefacrudserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B435A028-9B4D-4A5C-A7A7-2EF6A8E3226B}|WebApplicationTarefaCrudServer\\WebApplicationTarefaCrudServer.csproj|c:\\users\\pc\\documents\\pageinterim\\servidorfinal\\crudtaskserver\\webapplicationtarefacrudserver\\webapplicationtarefacrudserver\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B435A028-9B4D-4A5C-A7A7-2EF6A8E3226B}|WebApplicationTarefaCrudServer\\WebApplicationTarefaCrudServer.csproj|solutionrelative:webapplicationtarefacrudserver\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B435A028-9B4D-4A5C-A7A7-2EF6A8E3226B}|WebApplicationTarefaCrudServer\\WebApplicationTarefaCrudServer.csproj|c:\\users\\pc\\documents\\pageinterim\\servidorfinal\\crudtaskserver\\webapplicationtarefacrudserver\\webapplicationtarefacrudserver\\entities\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B435A028-9B4D-4A5C-A7A7-2EF6A8E3226B}|WebApplicationTarefaCrudServer\\WebApplicationTarefaCrudServer.csproj|solutionrelative:webapplicationtarefacrudserver\\entities\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B435A028-9B4D-4A5C-A7A7-2EF6A8E3226B}|WebApplicationTarefaCrudServer\\WebApplicationTarefaCrudServer.csproj|c:\\users\\pc\\documents\\pageinterim\\servidorfinal\\crudtaskserver\\webapplicationtarefacrudserver\\webapplicationtarefacrudserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B435A028-9B4D-4A5C-A7A7-2EF6A8E3226B}|WebApplicationTarefaCrudServer\\WebApplicationTarefaCrudServer.csproj|solutionrelative:webapplicationtarefacrudserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TarefasController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\pageinterim\\servidorFinal\\crudTaskServer\\WebApplicationTarefaCrudServer\\WebApplicationTarefaCrudServer\\Controllers\\TarefasController.cs",
+              "RelativeDocumentMoniker": "WebApplicationTarefaCrudServer\\Controllers\\TarefasController.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\pageinterim\\servidorFinal\\crudTaskServer\\WebApplicationTarefaCrudServer\\WebApplicationTarefaCrudServer\\Controllers\\TarefasController.cs",
+              "RelativeToolTip": "WebApplicationTarefaCrudServer\\Controllers\\TarefasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T16:56:24.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\pageinterim\\servidorFinal\\crudTaskServer\\WebApplicationTarefaCrudServer\\WebApplicationTarefaCrudServer\\Data\\Context.cs",
+              "RelativeDocumentMoniker": "WebApplicationTarefaCrudServer\\Data\\Context.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\pageinterim\\servidorFinal\\crudTaskServer\\WebApplicationTarefaCrudServer\\WebApplicationTarefaCrudServer\\Data\\Context.cs",
+              "RelativeToolTip": "WebApplicationTarefaCrudServer\\Data\\Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T16:53:15.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\pageinterim\\servidorFinal\\crudTaskServer\\WebApplicationTarefaCrudServer\\WebApplicationTarefaCrudServer\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplicationTarefaCrudServer\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\pageinterim\\servidorFinal\\crudTaskServer\\WebApplicationTarefaCrudServer\\WebApplicationTarefaCrudServer\\Program.cs",
+              "RelativeToolTip": "WebApplicationTarefaCrudServer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T16:52:13.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\pageinterim\\servidorFinal\\crudTaskServer\\WebApplicationTarefaCrudServer\\WebApplicationTarefaCrudServer\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplicationTarefaCrudServer\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\Documents\\pageinterim\\servidorFinal\\crudTaskServer\\WebApplicationTarefaCrudServer\\WebApplicationTarefaCrudServer\\appsettings.json",
+              "RelativeToolTip": "WebApplicationTarefaCrudServer\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-25T16:52:00.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tarefa.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\pageinterim\\servidorFinal\\crudTaskServer\\WebApplicationTarefaCrudServer\\WebApplicationTarefaCrudServer\\Entities\\Tarefa.cs",
+              "RelativeDocumentMoniker": "WebApplicationTarefaCrudServer\\Entities\\Tarefa.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\pageinterim\\servidorFinal\\crudTaskServer\\WebApplicationTarefaCrudServer\\WebApplicationTarefaCrudServer\\Entities\\Tarefa.cs",
+              "RelativeToolTip": "WebApplicationTarefaCrudServer\\Entities\\Tarefa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T16:51:15.919Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
